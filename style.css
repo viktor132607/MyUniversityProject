@@ -283,3 +283,100 @@ a {
     padding: 34px 24px;
   }
 }
+
+@media (max-width: 480px) {
+  .site-header {
+    min-height: 100vh;
+    background-position: center;
+  }
+
+  .navbar {
+    width: 92%;
+    padding: 18px 0;
+  }
+
+  .logo {
+    font-size: 1.25rem;
+    text-align: center;
+  }
+
+  .nav-links {
+    gap: 10px 14px;
+    font-size: 0.9rem;
+  }
+
+  .hero {
+    min-height: calc(100vh - 120px);
+    width: 92%;
+    padding: 40px 0;
+  }
+
+  .hero h1 {
+    font-size: 2.35rem;
+    line-height: 1.05;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+
+  .btn {
+    padding: 12px 22px;
+    font-size: 0.95rem;
+  }
+
+  .section {
+    width: 92%;
+    padding: 56px 0;
+  }
+
+  .section-title {
+    margin-bottom: 32px;
+  }
+
+  .section-title h2,
+  .about-section h2 {
+    font-size: 2rem;
+  }
+
+  .menu-category {
+    margin-bottom: 42px;
+  }
+
+  .menu-category h3 {
+    font-size: 1.65rem;
+  }
+
+  .menu-card {
+    min-height: auto;
+    padding: 20px;
+    border-radius: 16px;
+  }
+
+  .menu-card h4 {
+    font-size: 1.12rem;
+  }
+
+  .menu-card p {
+    font-size: 0.95rem;
+  }
+
+  .about-section {
+    padding: 28px 20px;
+    border-radius: 20px;
+  }
+
+  .contact-section {
+    padding-top: 56px;
+  }
+
+  .contact-box {
+    padding: 24px 20px;
+    border-radius: 18px;
+    font-size: 0.95rem;
+  }
+
+  .site-footer {
+    font-size: 0.9rem;
+  }
+}
