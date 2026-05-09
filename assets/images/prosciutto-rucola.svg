@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 600 400">
+    <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff7ed"/><stop offset="1" stop-color="#f3d2b8"/></linearGradient></defs>
+    <rect width="600" height="400" fill="url(#bg)"/>
+    <circle cx="92" cy="78" r="72" fill="#4b9f4f" opacity=".12"/><circle cx="520" cy="310" r="95" fill="#4b9f4f" opacity=".10"/>
+    
+        <circle cx="300" cy="205" r="118" fill="#d98b34"/>
+        <circle cx="300" cy="205" r="101" fill="#f0c36d"/>
+        <circle cx="258" cy="176" r="13" fill="#4b9f4f"/><circle cx="330" cy="153" r="13" fill="#4b9f4f"/><circle cx="355" cy="220" r="13" fill="#4b9f4f"/><circle cx="278" cy="250" r="13" fill="#4b9f4f"/>
+        <circle cx="316" cy="226" r="10" fill="#fff2b8"/><circle cx="246" cy="216" r="9" fill="#fff2b8"/><circle cx="333" cy="261" r="8" fill="#fff2b8"/>
+        <path d="M300 104 L300 306 M199 205 L401 205" stroke="#b86b2a" stroke-width="5" opacity=".45"/>
+        
+    <text x="300" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#1d1d1d">Прошуто Рукола</text>
+    </svg>
